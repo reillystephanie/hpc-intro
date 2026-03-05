@@ -17,10 +17,10 @@ snippets: "deRSE26_custom"
 #  prompt: "[you@laptop:~]$"
 #  shebang: "#!/bin/bash"
 
-#remote:
+remote:
 #  name: "HPC Carpentry's Cloud Cluster"
 #  login: "cluster.hpc-carpentry.org"
-#  portal: "https://mokey.cluster.hpc-carpentry.org"
+  portal: "https://regapp.itc.rwth-aachen.de"
 #  host: "login1"
 #  node: "smnode1"
 #  location: "cluster.hpc-carpentry.org"
