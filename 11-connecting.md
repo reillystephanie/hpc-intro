@@ -308,7 +308,7 @@ See the [PuTTY documentation][putty-agent].
 
 
 
-Visit [https://mokey.cluster.hpc-carpentry.org](https://mokey.cluster.hpc-carpentry.org) to upload your SSH public key. (Remember, it's the one ending in `.pub`!)
+Visit [https://regapp.itc.rwth-aachen.de](https://regapp.itc.rwth-aachen.de) to upload your SSH public key. (Remember, it's the one ending in `.pub`!)
 
 ## Log In to the Cluster
 
